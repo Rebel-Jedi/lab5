@@ -14,5 +14,12 @@ td, th {
 	padding: 10px;
   	border: 1px solid;
   	text-align: center;
-  }
+}
+
+.hover-facts:hover td{
+  background-color: #ffff00;
+}
   
+.pic-background{
+  background-color: #000000;
+}
