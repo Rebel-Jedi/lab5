@@ -16,15 +16,15 @@ td, th {
   	text-align: center;
 }
 
-.hover-facts:hover td{
-  background-color: #ffff00;
+.facts-hover:hover td{
+  background-color: #ff3300;
 }
   
 .pic-background{
   background-color: #000000;
 }
 
-.planet-names{
+.names{
   color: #008080;
   background-color: #ffffff  ;
   font-size: 2em;
