@@ -16,6 +16,13 @@ td, th {
   	text-align: center;
 }
 
+img {
+  width: 10em;
+  padding: 0.3em;
+  border: 0em;
+  margin: 0em;
+} 
+
 .facts-hover:hover td{
   background-color: #ff3300;
 }
@@ -29,4 +36,17 @@ td, th {
   background-color: #ffffff  ;
   font-size: 2em;
   font-weight: bold;
+}
+
+.facts{
+  background-color: #0000ff ;
+  text-align: left;
+}
+
+.orange{
+  background-color: #0000ff ;
+}
+
+.yellow{
+  background-color: #0000ff ;
 }
