@@ -32,7 +32,7 @@ img {
 }
 
 .names{
-  color: #008080;
+  color: #66ff66;
   background-color: #ffffff  ;
   font-size: 2em;
   font-weight: bold;
@@ -44,9 +44,9 @@ img {
 }
 
 .orange{
-  background-color: #0000ff ;
+  background-color: #ff9900 ;
 }
 
 .yellow{
-  background-color: #0000ff ;
+  background-color: #ffff00 ;
 }
